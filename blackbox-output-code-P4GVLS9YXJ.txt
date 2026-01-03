@@ -1,0 +1,8 @@
+
+- Flow: From setup to running locally, then deploying.
+
+# Copy-Paste Code
+
+These are the commands to run the code locally. Open your terminal, go to your project folder (where server.js is), and run them step by step.
+
+1. Install dependencies:

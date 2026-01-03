@@ -1,0 +1,2 @@
+
+2. Create and fill .env file (copy from earlier, add your real keys):
