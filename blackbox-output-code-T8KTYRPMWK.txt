@@ -1,0 +1,8 @@
+
+- This shows the flow from local to GitHub.
+
+# Copy-Paste Code
+
+These are the terminal commands to connect your code to GitHub. Run them in your project folder (where server.js is).
+
+1. Initialize Git in your folder:

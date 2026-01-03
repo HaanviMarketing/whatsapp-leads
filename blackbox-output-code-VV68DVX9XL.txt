@@ -1,0 +1,59 @@
+
+If you make changes later, repeat: `git add .`, `git commit -m "Update message"`, `git push`.
+
+# Deployment Steps
+
+1. **Sign up for GitHub**: Go to github.com and create a free account if you don't have one.
+
+2. **Create a Repository**: Click "New repository", name it (e.g., "lead-capture-api"), make it public or private, and click "Create repository".
+
+3. **Upload Code**: Follow the copy-paste commands above in your terminal. If you get errors, install Git first (download from git-scm.com).
+
+4. **Verify**: Check your GitHub repo online – all files should be there.
+
+5. **For Deployment**: Now, in Render or Railway, connect to your GitHub repo instead of uploading files manually. This auto-deploys when you push changes.
+
+6. **Troubleshooting**: If push fails, ensure your GitHub credentials are set up (use GitHub CLI or personal access token).
+
+# Pricing Model
+
+GitHub is free for public repos and basic private ones. No cost here.
+
+# Documentation
+
+## GitHub Connection Steps
+- Follow the commands to init, add, commit, and push.
+- Use GitHub for version control and collaboration.
+
+## Benefits
+- Backup your code.
+- Easy updates and rollbacks.
+- Integrates with deployment platforms.
+
+# Sales Copy
+
+## Headline
+Connect Your API to GitHub – Secure, Version-Controlled, and Ready to Scale!
+
+## Problem Statement
+Losing code or forgetting changes? GitHub keeps everything safe and organized.
+
+## Features
+- **Easy Upload**: Simple commands to push your code.
+- **Version Control**: Track every change.
+- **Deployment Ready**: Link directly to hosting services.
+
+## Benefits
+- Never lose your work.
+- Collaborate with others.
+- Deploy faster with auto-updates.
+
+## Call-to-Action
+Get started with GitHub today – it's free and essential for developers!
+
+# Future Roadmap
+
+GitHub connected! Next:
+- Integrate more CRMs (Salesforce, etc.).
+- Offer API for custom integrations.
+- Launch native apps with React Native.

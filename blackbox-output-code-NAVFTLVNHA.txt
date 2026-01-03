@@ -1,0 +1,4 @@
+
+4. Create a new repository on GitHub (via website: github.com > New repository > Name it "lead-capture-api" > Create).
+
+5. Link your local repo to GitHub (replace YOUR_USERNAME and YOUR_REPO_NAME):
